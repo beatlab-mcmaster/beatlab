@@ -200,3 +200,10 @@ img.bibbase_icon:hover {
 
   vertical-align: text-top;
 }
+
+.person-photo {
+  width: 100px;       
+  height: 150px;
+  object-fit: cover;  
+  border-radius: 4px; 
+}
